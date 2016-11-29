@@ -50,6 +50,7 @@ for(i in 1:100) {
 }
 
 # 5. Make a histogram of your `basic.fits` vector
+
 hist(basic.fits)
 
 # 6. Take the mean of your `basic.fits` vector
